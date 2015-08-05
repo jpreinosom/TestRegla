@@ -38,12 +38,12 @@
         <condition-column52>
           <typedDefaultValue>
             <valueString></valueString>
-            <dataType>STRING</dataType>
+            <dataType>NUMERIC_INTEGER</dataType>
             <isOtherwise>false</isOtherwise>
           </typedDefaultValue>
           <hideColumn>false</hideColumn>
           <width>-1</width>
-          <header>edad &gt; +=</header>
+          <header>edad &gt;=</header>
           <constraintValueType>1</constraintValueType>
           <factField>age</factField>
           <fieldType>Integer</fieldType>
@@ -67,6 +67,7 @@
         </condition-column52>
       </conditions>
       <window>
+        <operator></operator>
         <parameters/>
       </window>
     </Pattern52>
